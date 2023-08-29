@@ -6,6 +6,7 @@ class HelloWorld {
         System.out.println("Second commit");
         System.out.println("LALALALALALAL");
         System.out.println("akmsdkmaskdmaksmdkas");
+        System.out.println("Nordeus here I come!");
 
     }
 }
